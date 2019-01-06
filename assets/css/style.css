@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/shark_background.jpg");
+    background-color: darkblue;
+
+}
+
+.panel {
+    opacity: 0.70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    background-color: lightskyblue;
+    /*background-image: url("../images/shark.jpg")*/
+}
+
+.jumbotron {
+    /* background-image: url("../images/walktheplank.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    opacity: .70;
+    padding: 20px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
