@@ -14,12 +14,12 @@ body {
 }
 
 .jumbotron {
-    /* background-image: url("../images/walktheplank.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     text-align: center;
     background-color: darkblue;
     color: white;
+    margin-top: 20px;
     opacity: .70;
     padding: 20px;
     font-family: 'ZCOOL KuaiLe', cursive;
